@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="C:/Users/Tatu/Desktop/Tatu/Java Resources/Lets Build A Game/Libs/jars/jinput.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tatu/Desktop/Tatu/Java Resources/Lets Build A Game/Libs/jars/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tatu/Desktop/Tatu/Java Resources/Lets Build A Game/Libs/jars/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tatu/Desktop/Tatu/Java Resources/Lets Build A Game/Libs/jars/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Tatu/Desktop/Tatu/Java Resources/Lets Build A Game/Libs/lwjgl/native/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Tatu/Desktop/Tatu/Java Resources/Lets Build A Game/Libs/jars/slick.jar"/>
+	<classpathentry kind="lib" path="C:/mysql-connector-java-5.1.41/mysql-connector-java-5.1.41-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
