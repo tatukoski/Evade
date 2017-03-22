@@ -14,5 +14,5 @@ Powerups and generator for them
 Some sounds & music
 
 Instructions:
-Download the files and run with eclipse
+Download the ZIP-File and run the Evade.jar file.
 
