@@ -10,9 +10,10 @@ Working Game Loop
 Highly complicated menu-system
 Movement (WASD)
 Different enemy types & spawn system
-Powerups and generator for them
+Power-ups and a generator for them
 Some sounds & music
 
 Instructions:
 Download the files and run the Evade.jar.
+Alternatively, download the files and launch with eclipse.
 
