@@ -2,16 +2,7 @@ Evade Game
 
 What is Evade?
 A survival-based game. 
-Survive to accumulate as much points as possible.
-
-Current features:
-
-Working Game Loop
-Highly complicated menu-system
-Movement (WASD)
-Different enemy types & spawn system
-Power-ups and a generator for them
-Some sounds & music
+Stay inside the safe-zone to accumulate as much points as possible.
 
 Instructions:
 Download the files and run the Evade.jar.
